@@ -4,11 +4,11 @@
 
 <br>
 
-Meu nome é John Doe e tenho 23 anos. Iniciei meus estudos na área de computação no ano de 2017 
-com um curso Técnico em Informática realizado pela ETEC. Durante esse período tive contato com 
-várias linguagens de programação, como Python e Java, mas senti que precisava me aprofundar 
-mais para conseguir maior destaque no mercado de trabalho. Esse desejo me trouxe, em 2020, ao 
-curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos.
+Meu nome é Felipe Pereira e tenho 25 anos. Iniciei meu interesse na área de computação na infância, com a paixão por 
+jogos e eletrônicos, onde sempre buscava entender o que estava por trás daquilo que estava vendo ou fazendo. Mas ao sair do ensino médio,
+busquei conhecimentos na área da logística, através do curso de Logística da FATEC São José dos Campos. Durante esse período tive contato com 
+automações em Python, com isto, senti que precisava mudar de área e migrar para o mundo da tecnologia. Esse desejo me trouxe, em 2020, ao 
+curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos em 2023.
 
 Profissionalmente, iniciei minha carreira como auxiliar de escritório na empresa Contabilidade 
 Fictícia em 2018. No meu terceiro semestre de curso, graças à metodologia de Aprendizagem por 
