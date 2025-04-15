@@ -1,20 +1,28 @@
-# Felipe Pereira
+<table>
+  <tr>
+    <td style="width: 200px;">
+      <img src="https://github.com/user-attachments/assets/229e06fd-c5a0-4316-9640-6cf2f2dbd2af" alt="Felipe" width="180" />
+    </td>
+    <td>
+      <h2>Felipe Pereira</h2>
+      <p>
+        Meu nome é Felipe Pereira e tenho 25 anos. Iniciei meu interesse na área de computação na infância, com a paixão por 
+        jogos e eletrônicos, onde sempre buscava entender o que estava por trás daquilo que estava vendo ou fazendo. Mas ao sair do ensino médio,
+        busquei conhecimentos na área da logística, através do curso de Logística da FATEC São José dos Campos. Durante esse período tive contato com 
+        automações em Python, com isto, senti que precisava mudar de área e migrar para o mundo da tecnologia. Esse desejo me trouxe, em 2020, ao 
+        curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos em 2023.
+      </p>
+      <p>
+        Profissionalmente, iniciei minha carreira como auxiliar de escritório na empresa Contabilidade 
+        Fictícia em 2018. No meu terceiro semestre de curso, graças à metodologia de Aprendizagem por 
+        Projeto Integrados tive contato com a empresa DevX e consegui meu primeiro estágio na área. 
+        Em 2022 fui efetivado como Programador Júnior e atualmente atuo principalmente com 
+        desenvolvimento back-end com a linguagem de programação Java e o framework Spring.
+      </p>
+    </td>
+  </tr>
+</table>
 
-![Felipe](https://github.com/user-attachments/assets/229e06fd-c5a0-4316-9640-6cf2f2dbd2af)
-
-<br>
-
-Meu nome é Felipe Pereira e tenho 25 anos. Iniciei meu interesse na área de computação na infância, com a paixão por 
-jogos e eletrônicos, onde sempre buscava entender o que estava por trás daquilo que estava vendo ou fazendo. Mas ao sair do ensino médio,
-busquei conhecimentos na área da logística, através do curso de Logística da FATEC São José dos Campos. Durante esse período tive contato com 
-automações em Python, com isto, senti que precisava mudar de área e migrar para o mundo da tecnologia. Esse desejo me trouxe, em 2020, ao 
-curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos em 2023.
-
-Profissionalmente, iniciei minha carreira como auxiliar de escritório na empresa Contabilidade 
-Fictícia em 2018. No meu terceiro semestre de curso, graças à metodologia de Aprendizagem por 
-Projeto Integrados tive contato com a empresa DevX e consegui meu primeiro estágio na área. 
-Em 2022 fui efetivado como Programador Júnior e atualmente atuo principalmente com 
-desenvolvimento back-end com a linguagem de programação Java e o framework Spring.
 
 <br>
 
