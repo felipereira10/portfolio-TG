@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
   <img src="https://github.com/user-attachments/assets/229e06fd-c5a0-4316-9640-6cf2f2dbd2af" 
        alt="Felipe" 
-       style="width: 300px; height: center; border-radius: 25px;"/>
+       style="width: 300px; border-radius: 25px; display: block; margin: auto;" />
 
   <div style="max-width: 800px;">
 
