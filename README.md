@@ -1,25 +1,3 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/229e06fd-c5a0-4316-9640-6cf2f2dbd2af" 
-           alt="Felipe" 
-           width="250"
-           style="border-radius: 20px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h2>Felipe Pereira</h2>
-      <p>
-        Meu nome é Felipe Pereira e tenho 25 anos. Iniciei meu interesse na área de computação na infância, com a paixão por 
-        jogos e eletrônicos, onde sempre buscava entender o que estava por trás daquilo que estava vendo ou fazendo. Mas ao sair do ensino médio,
-        busquei conhecimentos na área da logística, através do curso de Logística da FATEC São José dos Campos. Durante esse período tive contato com 
-        automações em Python, com isto, senti que precisava mudar de área e migrar para o mundo da tecnologia. Esse desejo me trouxe, em 2020, ao 
-        curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos em 2023.
-      </p>
-    </td>
-  </tr>
-</table>
-
-
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <img src="https://github.com/user-attachments/assets/229e06fd-c5a0-4316-9640-6cf2f2dbd2af" 
