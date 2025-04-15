@@ -1,6 +1,9 @@
 # Felipe Pereira
 
 ![Felipe Pereira](/Image/programador.png?raw=true)
+
+<br>
+
 Meu nome é John Doe e tenho 23 anos. Iniciei meus estudos na área de computação no ano de 2017 
 com um curso Técnico em Informática realizado pela ETEC. Durante esse período tive contato com 
 várias linguagens de programação, como Python e Java, mas senti que precisava me aprofundar 
@@ -13,11 +16,14 @@ Projeto Integrados tive contato com a empresa DevX e consegui meu primeiro está
 Em 2022 fui efetivado como Programador Júnior e atualmente atuo principalmente com 
 desenvolvimento back-end com a linguagem de programação Java e o framework Spring.
 
+<br>
+
 ## Contatos
 * [GIT](https://github.com/JohnDoeFatec)
 * [LinkedIn](https://www.linkedin.com/in/john-doe-fatec/)
 * [E-mail](mailto:johndoefatec2017ads@gmail.com)
 
+<br>
 
   ## Meus Principais Conhecimentos
 Sou apaixonado por desenvolvimento back-end, mas também possuo amplo conhecimento em 
@@ -34,6 +40,7 @@ destacam:
 * TypeScript
 * CSS
 
+<br>
 
 ## Meus Projetos
 ### Primeiro Semestre (2020-2)
