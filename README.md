@@ -57,7 +57,7 @@ destacam:
 
 <br>
 
----
+--
 
 ## Meus Projetos
 #### 📚 Projeto Integrador – 1º Semestre (2023-1)
@@ -65,12 +65,12 @@ O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira 
 Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Tiago Graça, que assumiu o 
 papel de cliente final.
 
----
+--
 
 ### 💡 Problema
 A empresa fictícia precisava apresentar o framework Scrum para funcionários sem experiência prévia com metodologias ágeis. Era necessário desenvolver um site informativo, didático e responsivo que, explicasse os principais conceitos do Scrum, para ser implementado no dia-a-dia.
 
----
+--
 
 ### 🚀 Solução Desenvolvida
 Criamos um **site educativo** com interface amigável, com informações organizadas sobre os papéis, cerimônias e artefatos do Scrum. O sistema foi hospedado na AWS para acesso remoto e utilizou um backend simples com Flask.
