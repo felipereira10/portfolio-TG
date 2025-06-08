@@ -60,12 +60,20 @@ destacam:
 ---
 
 ## Meus Projetos
-### Primeiro Semestre (2023-1)
+#### 📚 Projeto Integrador – 1º Semestre (2023-1)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria 
 Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Tiago Graça, que assumiu o 
 papel de cliente final.
-O problema apresentado, consistia na apresentação para pessoas de uma empresa fictícia que não sabiam como a 
-metodologia ágil SCRUM, funcionava.
+
+---
+
+### 💡 Problema
+A empresa fictícia precisava apresentar o framework Scrum para funcionários sem experiência prévia com metodologias ágeis. Era necessário desenvolver um site informativo, didático e responsivo que, explicasse os principais conceitos do Scrum, para ser implementado no dia-a-dia.
+
+---
+
+### 🚀 Solução Desenvolvida
+Criamos um **site educativo** com interface amigável, com informações organizadas sobre os papéis, cerimônias e artefatos do Scrum. O sistema foi hospedado na AWS para acesso remoto e utilizou um backend simples com Flask.
 🔗 [Repositório GitHub do Projeto](https://github.com/felipereira10/Code-6-Wave-1-API)
 
 ---
@@ -83,13 +91,19 @@ metodologia ágil SCRUM, funcionava.
 
 ---
   
-### Contribuições Pessoais
+### 👤 Minhas Contribuições
 Nesse projeto atuei como Product Owner, tendo o contato direto com o cliente e entendendo
-um pouco mais de como funcionava essa tratativa, sendo muito positivo para mim, t , 
-reproduzindo, por meio do Scene Builder, o design enviado pelo Product Owner da forma mais 
-fiel possível. Também fui responsável pela navbar e sidebar, a tela principal da apresentação do SCRM, estilização das páginas em geral, que foram 
-implementadas de maneira dinâmica, 
-além de auxiliar na prototipagem do projeto.
+um pouco mais de como funcionava essa tratativa, com:
+- Levantamento e refinamento de requisitos com o cliente
+- Criação e priorização do backlog
+- Condução das reuniões de planejamento, review e retrospectiva
+- Alinhamento contínuo entre equipe e cliente
+
+**Atuação técnica complementar:**
+- Desenvolvimento da navbar e sidebar
+- Criação da tela principal de apresentação do Scrum
+- Estilização das páginas e ajustes dinâmicos
+- Apoio à prototipação e testes
 
 ---
 
@@ -102,7 +116,7 @@ além de auxiliar na prototipagem do projeto.
 
 ---
   
-### Soft Skills
+### 💬 Soft Skills Exercitadas
 Durante esse projeto tive que usar de resiliência e positividade para conseguir realizar as 
 entregas, pois a carga de trabalho subiu consideravelmente após a desistência abrupta de dois 
 membros, ambos do time de desenvolvimento. Infelizmente, tivemos problemas  na primeira Sprint, mas, graças à 
