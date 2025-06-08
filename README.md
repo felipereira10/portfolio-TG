@@ -76,7 +76,7 @@ A empresa fictícia precisava apresentar o framework Scrum para funcionários se
 Criamos um **site educativo** com interface amigável, com informações organizadas sobre os papéis, cerimônias e artefatos do Scrum. O sistema foi hospedado na AWS para acesso remoto e utilizou um backend simples com Flask.
 🔗 [Repositório GitHub do Projeto](https://github.com/felipereira10/Code-6-Wave-1-API)
 
----
+--
 
 ### ⚙️ Tecnologias Utilizadas
 - **Figma** – Prototipação da interface
@@ -89,7 +89,7 @@ Criamos um **site educativo** com interface amigável, com informações organiz
 - **Flask (Python)** – Backend local
 - **AWS** – Hospedagem da aplicação
 
----
+--
   
 ### 👤 Minhas Contribuições
 Nesse projeto atuei como Product Owner, tendo o contato direto com o cliente e entendendo
@@ -105,7 +105,7 @@ um pouco mais de como funcionava essa tratativa, com:
 - Estilização das páginas e ajustes dinâmicos
 - Apoio à prototipação e testes
 
----
+--
 
 ### 🧠 Hard Skills Exercitadas
 - `HTML`: uso com autonomia
@@ -114,7 +114,7 @@ um pouco mais de como funcionava essa tratativa, com:
 - `Flask`: uso com apoio
 - `Bootstrap`: uso com apoio
 
----
+--
   
 ### 💬 Soft Skills Exercitadas
 Durante esse projeto tive que usar de resiliência e positividade para conseguir realizar as 
