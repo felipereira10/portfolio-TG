@@ -64,19 +64,18 @@ O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira 
 Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Tiago Graça, que assumiu o 
 papel de cliente final.
 
-<br>
+---
 
 ### 💡 Problema
 A empresa fictícia precisava apresentar o framework Scrum para funcionários sem experiência com metodologias ágeis. Era necessário desenvolver um site informativo, didático e responsivo que, explicasse os principais conceitos do Scrum, para ser implementado no dia-a-dia.
 
-<br>
-
+---
 ### 🚀 Solução Desenvolvida
 Criamos um site educativo com interface amigável, com informações organizadas sobre os papéis, cerimônias e artefatos do Scrum. O sistema foi hospedado na AWS para acesso remoto e utilizou um backend simples com Flask.
 
 🔗 [Repositório GitHub do Projeto](https://github.com/felipereira10/Code-6-Wave-1-API)
 
-<br>
+---
 
 ### ⚙️ Tecnologias Utilizadas
 - **Figma** – Prototipação da interface
@@ -89,8 +88,8 @@ Criamos um site educativo com interface amigável, com informações organizadas
 - **Flask (Python)** – Backend local
 - **AWS** – Hospedagem da aplicação
 
-<br>
-  
+---
+
 ### 👤 Minhas Contribuições
 Nesse projeto atuei como Product Owner, tendo o contato direto com o cliente e entendendo
 um pouco mais de como funcionava essa tratativa, com:
@@ -105,7 +104,7 @@ um pouco mais de como funcionava essa tratativa, com:
 - Estilização das páginas e ajustes dinâmicos
 - Apoio à prototipação e testes
 
-<br>
+---
 
 ### 🧠 Hard Skills Exercitadas
 - `HTML`: uso com autonomia
@@ -114,8 +113,8 @@ um pouco mais de como funcionava essa tratativa, com:
 - `Flask`: uso com apoio
 - `Bootstrap`: uso com apoio
 
-<br>
-  
+---
+
 ### 💬 Soft Skills Exercitadas
 Durante esse projeto tive que usar de resiliência e positividade para conseguir realizar as 
 entregas, pois a carga de trabalho subiu consideravelmente após a desistência abrupta de dois 
@@ -124,3 +123,6 @@ colaboração dos demais membros da equipe, conseguimos redistribuir as tarefas,
 escopo e, ao final, entregamos um bom sistema. 
 Também precisei usar de empatia e liderança para lidar com membros da equipe, com sérias dificuldades de 
 entregar as tarefas nos prazos acordados. Com reuniões semanais, conseguimos contornar isso.
+
+----
+
