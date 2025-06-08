@@ -57,6 +57,8 @@ destacam:
 
 <br>
 
+---
+
 ## Meus Projetos
 ### Primeiro Semestre (2023-1)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria 
@@ -64,24 +66,24 @@ Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Tiag
 papel de cliente final.
 O problema apresentado, consistia na apresentação para pessoas de uma empresa fictícia que não sabiam como a 
 metodologia ágil SCRUM, funcionava.
-[GIT]([https://www.git.com](https://github.com/felipereira10/Code-6-Wave-1-API))
+🔗 [Repositório GitHub do Projeto](https://github.com/felipereira10/Code-6-Wave-1-API)
 
-#### Tecnologias Utilizadas
+---
 
-As seguintes tecnologias foram utilizadas nesse projeto:
-* Figma - Para a prototipação do site.
-* Microsoft Teams - Para a organização do Burndown e o Backlog.
-* Trello - Para a organização das atividades da equipe.
-* Canva - Para a criação do design.
-* GitHub - Para a documentação do projeto,
-* HTML - Para a estruturação do corpo do site.
-* CSS - Para alguns ajustes de responsividade do site.
-* Framework Bootstrap - Para a responsividade geral do site.
-* Microframework Flask - Para realizar o acesso do site de maneira local.
-* Amazon Web Services (AWS) - Para acessar o link sem ser pela conexão local.
+### ⚙️ Tecnologias Utilizadas
+- **Figma** – Prototipação da interface
+- **Canva** – Design visual dos elementos
+- **Microsoft Teams** – Organização das sprints e backlog
+- **Trello** – Gestão de tarefas
+- **GitHub** – Controle de versão e documentação
+- **HTML & CSS** – Estrutura e estilo do site
+- **Bootstrap** – Estilização responsiva
+- **Flask (Python)** – Backend local
+- **AWS** – Hospedagem da aplicação
+
+---
   
-#### Contribuições Pessoais
-
+### Contribuições Pessoais
 Nesse projeto atuei como Product Owner, tendo o contato direto com o cliente e entendendo
 um pouco mais de como funcionava essa tratativa, sendo muito positivo para mim, t , 
 reproduzindo, por meio do Scene Builder, o design enviado pelo Product Owner da forma mais 
@@ -89,17 +91,18 @@ fiel possível. Também fui responsável pela navbar e sidebar, a tela principal
 implementadas de maneira dinâmica, 
 além de auxiliar na prototipagem do projeto.
 
-#### Hard Skills
+---
 
-Exercitei as seguintes hard skills durante esse projeto:
-* HTML - Uso com autonomia.
-* CSS - Uso com autonomia.
-* Javascript - Uso com ajuda.
-* Flask - Uso com ajuda.
-* Bootstrap - Uso com ajuda.
+### 🧠 Hard Skills Exercitadas
+- `HTML`: uso com autonomia
+- `CSS`: uso com autonomia
+- `JavaScript`: uso com apoio
+- `Flask`: uso com apoio
+- `Bootstrap`: uso com apoio
+
+---
   
-#### Soft Skills
-
+### Soft Skills
 Durante esse projeto tive que usar de resiliência e positividade para conseguir realizar as 
 entregas, pois a carga de trabalho subiu consideravelmente após a desistência abrupta de dois 
 membros, ambos do time de desenvolvimento. Infelizmente, tivemos problemas  na primeira Sprint, mas, graças à 
