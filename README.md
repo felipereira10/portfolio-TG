@@ -61,6 +61,7 @@ destacam:
 # Meus Projetos
 
 ---
+<br>
 
 # 📚 Projeto Integrador – 1º Semestre (2023-1)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria 
@@ -123,6 +124,8 @@ Também precisei usar de empatia e liderança para lidar com membros da equipe, 
 entregar as tarefas nos prazos acordados. Com reuniões semanais, conseguimos contornar isso.
 
 ---
+<br>
+<br>
 
 # 📚 Projeto Integrador – 2º Semestre (2023-2)
 Este projeto foi realizado com o professor Giuliano Bertoti atuando como cliente. O desafio envolvia criar um assistente virtual capaz de responder perguntas frequentes com base em documentos específicos, utilizando tecnologias robustas.
@@ -161,6 +164,9 @@ Atuei como DevTeam, sendo responsável pelas telas de Login e Cadastro, contribu
 ## 💬 Soft Skills Exercitadas
 Trabalhei em equipe na idealização do projeto, com proatividade para implementar melhorias no sistema e na experiência do usuário. Mantive comunicação ativa com o cliente e equipe, garantindo alinhamento com as expectativas.
 
+---
+<br>
+<br>
 
 # 📚 Projeto Integrador – 3º Semestre (2024-1)
 Este projeto foi realizado com a empresa Pro4Tech e orientação do professor Giuliano Bertoti. O foco era centralizar os dados de vendas e facilitar a análise por meio de um dashboard intuitivo.
@@ -196,6 +202,8 @@ Atuei no front-end com React, focando na responsividade e experiência do usuár
 Trabalho em equipe com boa comunicação. Estudei novas tecnologias e mantive alinhamento com o cliente ao longo do projeto.
 
 ---
+<br>
+<br>
 
 # 📚 Sistema de Integração Logística – 4º Semestre (2024-2)
 Projeto desenvolvido em parceria com a empresa **JJM Log**, sob orientação da professora Juliana, com o objetivo de integrar os setores logísticos e melhorar a comunicação interna da organização.
@@ -242,6 +250,8 @@ Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão int
 - **Trabalho colaborativo** e escuta ativa
 
 ---
+<br>
+<br>
 
 # 📚 Sistema de Gerenciamento de Reembolsos – 5º Semestre (2025-1)
 Projeto desenvolvido com a empresa **GSW**, orientado pelo professor Gerson Penha, com foco em resolver problemas de controle de reembolsos corporativos.
