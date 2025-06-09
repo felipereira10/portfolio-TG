@@ -218,25 +218,25 @@ Trabalho em equipe com boa comunicação. Estudei novas tecnologias e mantive al
 <hr style="border: 3px solid #ccc; border-radius: 5px; margin: 40px 0;">
 
 
-# 📦 Sistema de Integração Logística – 4º Semestre (2024-2)
+#### 📚 Sistema de Integração Logística – 4º Semestre (2024-2)
 
 Projeto desenvolvido em parceria com a empresa **JJM Log**, sob orientação da professora Juliana, com o objetivo de integrar os setores logísticos e melhorar a comunicação interna da organização.
 
 ---
 
-## 💡 Problema
+### 💡 Problema
 A JJM Log enfrentava dificuldades na comunicação entre setores, na gestão de ordens de serviço e no controle de clientes e veículos. Essas falhas causavam retrabalho e ineficiência nos processos logísticos da empresa.
 
 ---
 
-## 🚀 Solução Desenvolvida
+### 🚀 Solução Desenvolvida
 Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão integrada de clientes, veículos, tarefas e ordens de serviço. O sistema promoveu melhorias na comunicação interna e na eficiência das operações da empresa.
 
 🔗 [Acesse o repositório do projeto](https://github.com/seu-link-aqui)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 - **TypeScript** – Código seguro e escalável
 - **React** – Interface interativa e moderna
 - **Figma** – Prototipação e design
@@ -247,7 +247,7 @@ Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão int
 
 ---
 
-## 👤 Minhas Contribuições
+### 👤 Minhas Contribuições
 - Iniciei como DevTeam e assumi o papel de Product Owner no decorrer do projeto
 - Realizei reuniões com o cliente e alinhei as funcionalidades com as demandas
 - Implementei as telas de Login, Perfil, Informativos/Tutoriais e a navegação via NavTab
@@ -255,7 +255,7 @@ Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão int
 
 ---
 
-## 🧠 Hard Skills
+### 🧠 Hard Skills
 - `React + TypeScript` – uso com autonomia  
 - `Figma` – uso com autonomia  
 - `GitHub` – uso com autonomia  
@@ -263,35 +263,35 @@ Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão int
 
 ---
 
-## 💬 Soft Skills
+### 💬 Soft Skills
 - **Comunicação ativa** com cliente e equipe
 - **Liderança e adaptação** como PO em meio ao projeto
 - **Organização e foco em entregas**
 - **Trabalho colaborativo** e escuta ativa
 
 
-<hr style="border: 3px solid #ccc; border-radius: 5px; margin: 40px 0;">
+<hr style="border: 6px solid #ccc; border-radius: 5px; margin: 60px 0;">
 
 
-# 💸 Sistema de Gerenciamento de Reembolsos – 5º Semestre (2025-1)
+#### 📚 Sistema de Gerenciamento de Reembolsos – 5º Semestre (2025-1)
 
 Projeto desenvolvido com a empresa **GSW**, orientado pelo professor Gerson Penha, com foco em resolver problemas de controle de reembolsos corporativos.
 
 ---
 
-## 💡 Problema
+### 💡 Problema
 A empresa apresentava dificuldades no controle de reembolsos, como perda de comprovantes, ausência de limites de gastos e lentidão no processo de aprovação. Isso comprometia o fluxo financeiro e a transparência interna.
 
 ---
 
-## 🚀 Solução Desenvolvida
+### 🚀 Solução Desenvolvida
 Desenvolvemos um **aplicativo mobile funcional e acessível**, que permite ao colaborador tirar fotos dos comprovantes, organizar gastos em pacotes de viagem, controlar o limite de despesas e acompanhar o status de cada reembolso (aprovado, reprovado ou pendente).
 
 🔗 [Acesse o repositório do projeto](https://github.com/seu-link-aqui)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 - **React Native + TypeScript** – Aplicativo móvel
 - **Expo Go** – Execução ágil e facilitada
 - **Figma** – Prototipação e UX/UI
@@ -302,7 +302,7 @@ Desenvolvemos um **aplicativo mobile funcional e acessível**, que permite ao co
 
 ---
 
-## 👤 Minhas Contribuições
+### 👤 Minhas Contribuições
 - Atuação como DevTeam desde a prototipação até o desenvolvimento
 - Organização das tarefas no Trello e gestão de produtividade
 - Criação das telas de Login e Perfil, além de melhorias visuais
@@ -310,7 +310,7 @@ Desenvolvemos um **aplicativo mobile funcional e acessível**, que permite ao co
 
 ---
 
-## 🧠 Hard Skills
+### 🧠 Hard Skills
 - `React Native + TypeScript` – uso com autonomia  
 - `Figma` – uso com autonomia  
 - `MySQL + MongoDB` – uso com apoio  
@@ -319,7 +319,7 @@ Desenvolvemos um **aplicativo mobile funcional e acessível**, que permite ao co
 
 ---
 
-## 💬 Soft Skills
+### 💬 Soft Skills
 - **Gestão de tarefas e organização de equipe**
 - **Comunicação clara** para alinhamento constante
 - **Proatividade** e foco na solução de problemas
