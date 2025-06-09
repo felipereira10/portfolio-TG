@@ -66,12 +66,12 @@ Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Tiag
 papel de cliente final.
 
 
-### 💡 Problema
+## 💡 Problema
 
 A empresa fictícia precisava apresentar o framework Scrum para funcionários sem experiência com metodologias ágeis. Era necessário desenvolver um site informativo, didático e responsivo que, explicasse os principais conceitos do Scrum, para ser implementado no dia-a-dia.
 
 
-### 🚀 Solução Desenvolvida
+## 🚀 Solução Desenvolvida
 
 Criamos um site educativo com interface amigável, com informações organizadas sobre os papéis, cerimônias e artefatos do Scrum. O sistema foi hospedado na AWS para acesso remoto e utilizou um backend simples com Flask.
 
