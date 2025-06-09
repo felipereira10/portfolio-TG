@@ -128,7 +128,7 @@ entregar as tarefas nos prazos acordados. Com reuniões semanais, conseguimos co
 <br>
 
 # 📚 Projeto Integrador – 2º Semestre (2023-2)
-Este projeto foi realizado com o professor Giuliano Bertoti atuando como cliente. O desafio envolvia criar um assistente virtual capaz de responder perguntas frequentes com base em documentos específicos, utilizando tecnologias robustas.
+Este projeto foi realizado com o professor Giuliano Bertoti atuando como cliente. O desafio envolvia criar um assistente virtual capaz de responder perguntas com base em documentos específicos, utilizando tecnologias do mercado.
 
 
 ## 💡 Problema
@@ -136,7 +136,7 @@ A dificuldade estava em automatizar respostas a dúvidas recorrentes baseadas em
 
 
 ## 🚀 Solução Desenvolvida
-Desenvolvemos um assistente virtual utilizando Java, com interface feita em JavaFX. Ele permite a consulta em documentos estruturados, retornando respostas precisas. O sistema é modular, permitindo futuras atualizações e adição de novos documentos.
+Desenvolvemos um assistente virtual utilizando Java, com interface feita em JavaFX. Ele permite a consulta em documentos estruturados, retornando respostas precisas.
 
 🔗 [Acesse o repositório do projeto](https://github.com/felipereira10/Code-Wave-2-API)
 
@@ -145,12 +145,22 @@ Desenvolvemos um assistente virtual utilizando Java, com interface feita em Java
 - **Java** – Backend e lógica do sistema
 - **JavaFX** – Interface gráfica
 - **MySQL** – Armazenamento de dados
-- **NetBeans & Eclipse** – Ambientes de desenvolvimento
+- **NetBeans e Eclipse** – Ambientes de desenvolvimento
 - **Hospedagem Local** – Execução local da aplicação
 
 
 ## 👤 Minhas Contribuições
-Atuei como DevTeam, sendo responsável pelas telas de Login e Cadastro, contribuindo também nas telas de Histórico e Principal (responsável por processar as perguntas). Realizei a integração entre o sistema de leitura e a lógica de resposta. Também ajudei na interface com JavaFX e nos testes unitários.
+Atuei como Product Owner, sendo o elo entre cliente, equipe de desenvolvimento e orientadores. Fui responsável por garantir que os requisitos estivessem claros e bem priorizados, além de manter o alinhamento durante todo o ciclo de desenvolvimento.
+
+### Atuação técnica complementar:
+
+- Desenvolvi as telas de Login e Cadastro, garantindo uma experiência fluida ao usuário desde o acesso ao sistema
+
+- Contribuí na construção das telas de Histórico e Principal, responsáveis por exibir os registros e processar as perguntas dos usuários
+
+- Realizei a integração entre o sistema de leitura e a lógica de resposta, unindo funcionalidades de backend e frontend
+
+- Participei da implementação da interface em JavaFX e colaborei nos testes unitários, assegurando o bom funcionamento da aplicação
 
 
 ## 🧠 Hard Skills Exercitadas
@@ -162,7 +172,7 @@ Atuei como DevTeam, sendo responsável pelas telas de Login e Cadastro, contribu
 
 
 ## 💬 Soft Skills Exercitadas
-Trabalhei em equipe na idealização do projeto, com proatividade para implementar melhorias no sistema e na experiência do usuário. Mantive comunicação ativa com o cliente e equipe, garantindo alinhamento com as expectativas.
+Durante o projeto, mantive uma postura de escuta ativa e comunicação constante com o cliente, garantindo que as funcionalidades estivessem alinhadas às necessidades reais. Trabalhei em colaboração com a equipe, exercitando proatividade na resolução de problemas e propondo melhorias técnicas e visuais para a experiência do usuário.
 
 ---
 <br>
@@ -190,12 +200,13 @@ Criamos um dashboard web onde o vendedor visualiza suas estatísticas e o admini
 
 
 ## 👤 Minhas Contribuições
-Atuei no front-end com React, focando na responsividade e experiência do usuário. Também participei da apresentação do projeto na feira de soluções da Fatec.
+Atuei no DevTeam como Full Stack utilizando React e Node.JS, focando nas primeiras interfaces de teste, buscando um padrão para nosso projeto, configuração das rotas e, implmentação dos gráficos. Também participei da apresentação do projeto na feira de soluções da Fatec.
 
 
 ## 🧠 Hard Skills Exercitadas
 - `React`: uso com autonomia
 - `TypeScript`: uso com apoio
+- `Node.JS`: uso com apoio
 
 
 ## 💬 Soft Skills Exercitadas
@@ -230,24 +241,29 @@ Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão int
 
 
 ## 👤 Minhas Contribuições
-- Iniciei como DevTeam e assumi o papel de Product Owner no decorrer do projeto
-- Realizei reuniões com o cliente e alinhei as funcionalidades com as demandas
-- Implementei as telas de Login, Perfil, Informativos/Tutoriais e a navegação via NavTab
-- Auxiliei no design das interfaces e nos testes de usabilidade
+Atuei como Scrum Master, facilitando as metologias ágeis e garantindo o bom andamento das sprints. Fui responsável por remover impedimentos, promover a colaboração entre os membros do time e manter o foco nos objetivos do projeto.
+
+#### Atuação técnica complementar:
+
+- Colaborei com o DevTeam na definição e implementação das rotas do sistema, tanto no frontend quanto no backend
+
+- Implementei o fluxo completo de Login de usuários, incluindo autenticação e validação
+
+- Desenvolvi a funcionalidade de cadastro e exibição de veículos, integrando frontend e backend
+
+- Contribuí com a criação das telas de estatísticas e gráficos, garantindo visualizações claras e informativas
 
 
 ## 🧠 Hard Skills
 - `React + TypeScript` – uso com autonomia  
 - `Figma` – uso com autonomia  
-- `GitHub` – uso com autonomia  
-- `Trello` – uso com autonomia  
+- `GitHub` – uso com autonomia
+- `REST APIs` – uso com apoio
+- `Scrum` – facilitação com autonomia  
 
 
 ## 💬 Soft Skills
-- **Comunicação ativa** com cliente e equipe
-- **Liderança e adaptação** como PO em meio ao projeto
-- **Organização e foco em entregas**
-- **Trabalho colaborativo** e escuta ativa
+Durante o projeto, exerci liderança servidora como Scrum Master, promovendo um ambiente colaborativo e de aprendizado contínuo. Trabalhei com comunicação clara e empatia, facilitando o alinhamento entre equipe, cliente e orientadores. Além disso, demonstrei organização e foco em resultados, ajudando o time a cumprir os prazos e alcançar entregas de valor.
 
 ---
 <br>
@@ -278,23 +294,26 @@ Desenvolvemos um **aplicativo mobile funcional e acessível**, que permite ao co
 
 
 ## 👤 Minhas Contribuições
-- Atuação como DevTeam desde a prototipação até o desenvolvimento
-- Organização das tarefas no Trello e gestão de produtividade
-- Criação das telas de Login e Perfil, além de melhorias visuais
-- Apoio no alinhamento de funcionalidades essenciais com o time
+Atuei como integrante do DevTeam, com foco na construção do backend e em funcionalidades essenciais da aplicação. Este projeto foi um grande desafio técnico pessoal, pois trabalhei com tecnologias novas e saí da minha zona de conforto.
+
+- Fui responsável pela implementação completa da lógica de reembolsos, garantindo clareza e organização nos dados apresentados ao usuário
+
+- Desenvolvi a tela de perfil do colaborador, incluindo a funcionalidade de alteração da foto de perfil
+
+- Separei os valores de reembolso em categorias distintas: pendentes, aprovados e recusados, para facilitar a visualização e o entendimento por parte do usuário
+
+- Realizei toda a programação do backend da aplicação, em colaboração com outro membro da equipe, integrando com o frontend e com os bancos de dados
 
 
 ## 🧠 Hard Skills
 - `React Native + TypeScript` – uso com autonomia  
 - `Figma` – uso com autonomia  
-- `MySQL + MongoDB` – uso com apoio  
-- `GitHub` – uso com autonomia  
-- `Trello` – uso com autonomia
-- 
+- `Node.js + Express` uso com apoio
+- `MongoDB / MySQL` uso com apoio
+- `RESTful APIs` uso com apoio
+- `Expo Go` uso com autonomia
+- `GitHub` uso com autonomia
+
 
 ## 💬 Soft Skills
-- **Gestão de tarefas e organização de equipe**
-- **Comunicação clara** para alinhamento constante
-- **Proatividade** e foco na solução de problemas
-- **Colaboração eficiente** com todo o grupo
-
+O projeto exigiu resiliência e disposição para aprender, já que enfrentei uma nova stack tecnológica e precisei adaptar meus conhecimentos para entregar com qualidade. Além disso, mantive uma comunicação clara e ativa com a equipe, garantindo alinhamento e fluidez no desenvolvimento. Trabalhei de forma colaborativa, contribuindo também com sugestões de melhorias para a experiência do usuário.
