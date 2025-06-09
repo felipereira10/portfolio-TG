@@ -138,7 +138,7 @@ A dificuldade estava em automatizar respostas a dúvidas recorrentes baseadas em
 ## 🚀 Solução Desenvolvida
 Desenvolvemos um assistente virtual utilizando Java, com interface feita em JavaFX. Ele permite a consulta em documentos estruturados, retornando respostas precisas. O sistema é modular, permitindo futuras atualizações e adição de novos documentos.
 
-🔗 [Acesse o repositório do projeto](#)
+🔗 [Acesse o repositório do projeto](https://github.com/felipereira10/Code-Wave-2-API)
 
 
 ## ⚙️ Tecnologias Utilizadas
@@ -179,7 +179,7 @@ A empresa usava planilhas do Excel para gerir dados de vendas, dificultando o ac
 ## 🚀 Solução Desenvolvida
 Criamos um dashboard web onde o vendedor visualiza suas estatísticas e o administrador acompanha dados gerais e individuais. As informações são importadas de arquivos Excel (.xlsx) e exibidas de forma intuitiva.
 
-🔗 [Acesse o repositório do projeto](#)
+🔗 [Acesse o repositório do projeto](https://github.com/Code-Lotus/api-3)
 
 
 ## ⚙️ Tecnologias Utilizadas
@@ -216,7 +216,7 @@ A JJM Log enfrentava dificuldades na comunicação entre setores, na gestão de 
 ## 🚀 Solução Desenvolvida
 Criamos uma **plataforma web responsiva e intuitiva**, que permite a gestão integrada de clientes, veículos, tarefas e ordens de serviço. O sistema promoveu melhorias na comunicação interna e na eficiência das operações da empresa.
 
-🔗 [Acesse o repositório do projeto](https://github.com/seu-link-aqui)
+🔗 [Acesse o repositório do projeto](https://github.com/DriftOps/API-IV)
 
 
 ## ⚙️ Tecnologias Utilizadas
@@ -264,7 +264,7 @@ A empresa apresentava dificuldades no controle de reembolsos, como perda de comp
 ## 🚀 Solução Desenvolvida
 Desenvolvemos um **aplicativo mobile funcional e acessível**, que permite ao colaborador tirar fotos dos comprovantes, organizar gastos em pacotes de viagem, controlar o limite de despesas e acompanhar o status de cada reembolso (aprovado, reprovado ou pendente).
 
-🔗 [Acesse o repositório do projeto](https://github.com/seu-link-aqui)
+🔗 [Acesse o repositório do projeto](https://github.com/DriftOps/API-V)
 
 
 ## ⚙️ Tecnologias Utilizadas
