@@ -57,6 +57,7 @@ destacam:
 
 <br>
 
+<a name="top"></a>
 
 # Meus Projetos
 
@@ -126,6 +127,10 @@ entregar as tarefas nos prazos acordados. Com reuniões semanais, conseguimos co
 ---
 <br>
 <br>
+<p align="right">
+  <a href="#top">🔝 Voltar ao topo</a>
+</p>
+
 
 # 📚 Projeto Integrador – 2º Semestre (2023-2)
 Este projeto foi realizado com o professor Giuliano Bertoti atuando como cliente. O desafio envolvia criar um assistente virtual capaz de responder perguntas com base em documentos específicos, utilizando tecnologias do mercado.
@@ -177,6 +182,10 @@ Durante o projeto, mantive uma postura de escuta ativa e comunicação constante
 ---
 <br>
 <br>
+<p align="right">
+  <a href="#top">🔝 Voltar ao topo</a>
+</p>
+
 
 # 📚 Projeto Integrador – 3º Semestre (2024-1)
 Este projeto foi realizado com a empresa Pro4Tech e orientação do professor Giuliano Bertoti. O foco era centralizar os dados de vendas e facilitar a análise por meio de um dashboard intuitivo.
@@ -215,6 +224,10 @@ Trabalho em equipe com boa comunicação. Estudei novas tecnologias e mantive al
 ---
 <br>
 <br>
+<p align="right">
+  <a href="#top">🔝 Voltar ao topo</a>
+</p>
+
 
 # 📚 Sistema de Integração Logística – 4º Semestre (2024-2)
 Projeto desenvolvido em parceria com a empresa **JJM Log**, sob orientação da professora Juliana, com o objetivo de integrar os setores logísticos e melhorar a comunicação interna da organização.
@@ -268,6 +281,10 @@ Durante o projeto, exerci liderança servidora como Scrum Master, promovendo um 
 ---
 <br>
 <br>
+<p align="right">
+  <a href="#top">🔝 Voltar ao topo</a>
+</p>
+
 
 # 📚 Sistema de Gerenciamento de Reembolsos – 5º Semestre (2025-1)
 Projeto desenvolvido com a empresa **GSW**, orientado pelo professor Gerson Penha, com foco em resolver problemas de controle de reembolsos corporativos.
@@ -317,3 +334,8 @@ Atuei como integrante do DevTeam, com foco na construção do backend e em funci
 
 ## 💬 Soft Skills
 O projeto exigiu resiliência e disposição para aprender, já que enfrentei uma nova stack tecnológica e precisei adaptar meus conhecimentos para entregar com qualidade. Além disso, mantive uma comunicação clara e ativa com a equipe, garantindo alinhamento e fluidez no desenvolvimento. Trabalhei de forma colaborativa, contribuindo também com sugestões de melhorias para a experiência do usuário.
+
+<p align="right">
+  <a href="#top">🔝 Voltar ao topo</a>
+</p>
+
