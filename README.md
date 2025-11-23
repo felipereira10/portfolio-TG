@@ -339,3 +339,60 @@ O projeto exigiu resiliência e disposição para aprender, já que enfrentei um
   <a href="#top">🔝 Voltar ao topo</a>
 </p>
 
+---
+
+# 📚 Sistema de Gerenciamento de Reembolsos – 6º Semestre (2025-2)
+Projeto desenvolvido com a empresa **Xertica.ai**, orientado pelo professor Walmir Duque, com foco em resolver problemas de controle de reembolsos corporativos.
+
+
+## 💡 Problema
+A empresa apresentava dificuldades no controle de reembolsos, como perda de comprovantes, ausência de limites de gastos e lentidão no processo de aprovação. Isso comprometia o fluxo financeiro e a transparência interna.
+A empresa precisava de um apoio para que seus colaboradores tivessem de uma maneira facilitada, acesso à planos personalizados voltados para nutrição, com chat interativo.
+
+
+## 🚀 Solução Desenvolvida
+Desenvolvemos uma **plataforma web com IA Generativa**, que permite ao colaborador acessar um agente conversacional em IA, para auxiliar na personalização à sua própria nutrição. 
+
+🔗 [Acesse o repositório do projeto](https://github.com/DriftOps/API-VI)
+
+
+## ⚙️ Tecnologias Utilizadas
+- **Vue + TypeScript** – Plataforma Web
+- **Java + Spring Boot + JPA** – Backend
+- **Python + IA Generativa (Gemini 2.5 Flash)** – Aplicação para utilização de RAG, Fine-tuning e outros
+- **PostgreSQL** – Armazenamento relacional
+- **Figma** – Prototipação e UX/UI
+- **Slack** – Comunicação da equipe
+- **Trello** – Gestão das tarefas
+
+
+## 👤 Minhas Contribuições
+Atuei como integrante do DevTeam, com foco na construção do backend e em funcionalidades essenciais da aplicação. Este projeto foi um grande desafio técnico pessoal e reafirmou minha vontade de me aprofundar no backend, pois trabalhei com tecnologias novas e saí da minha zona de conforto.
+
+- Fui responsável pela implementação inicial da lógica de cadastro, login, e dashboard. Garanti clareza e organização nos dados apresentados ao usuário;
+
+- Desenvolvi a tela de perfil do colaborador, incluindo a funcionalidade de edição diretamente na dashboard, para facilitar o acesso;
+
+- Realizei mudanças nas telas para padronização e melhor visualização, pensando na experiência do usuário;
+
+- Realizei toda a programação do backend da aplicação, em colaboração com outro membro da equipe, integrando com o frontend e com os bancos de dados.
+
+
+## 🧠 Hard Skills
+- `Vue + TypeScript` – uso com autonomia 
+- `Java + Spring Boot + JPA` uso com apoio
+- `PostgreSQL` uso com autonomia
+- `RESTful APIs` uso com apoio
+- `Python + IA Generativa` uso com apoio
+- `GitHub` uso com autonomia
+- `Figma` – uso com autonomia
+
+
+## 💬 Soft Skills
+Demonstrei rápida adaptabilidade ao enfrentar uma nova stack tecnológica, empregando disposição para o aprendizado para sustentar a qualidade das entregas. Garanti o alinhamento e a fluidez do projeto por meio de uma comunicação clara e proativa com o time. Contribuí ativamente para a melhoria da UX/UI com sugestões valiosas, operando sempre de forma colaborativa.
+
+<p align="right">
+  <a href="#top">🔝 Voltar ao topo</a>
+</p>
+
+
