@@ -342,13 +342,12 @@ O projeto exigiu resiliência e disposição para aprender, já que enfrentei um
   <a href="#top">🔝 Voltar ao topo</a>
 </p>
 
-# 📚 Sistema de Gerenciamento de Reembolsos – 6º Semestre (2025-2)
+# 📚 Plataforma de Nutrição Personalizada com IA Generativa – 6º Semestre (2025-2)
 Projeto desenvolvido com a empresa **Xertica.ai**, orientado pelo professor Walmir Duque, com foco em resolver problemas de controle de reembolsos corporativos.
 
 
 ## 💡 Problema
-A empresa apresentava dificuldades no controle de reembolsos, como perda de comprovantes, ausência de limites de gastos e lentidão no processo de aprovação. Isso comprometia o fluxo financeiro e a transparência interna.
-A empresa precisava de um apoio para que seus colaboradores tivessem de uma maneira facilitada, acesso à planos personalizados voltados para nutrição, com chat interativo.
+A empresa Xertica buscava uma solução inovadora para oferecer planos de nutrição personalizados e acessíveis aos seus colaboradores. O desafio era criar uma ferramenta que garantisse a personalização em escala, superando as limitações dos planos genéricos.
 
 
 ## 🚀 Solução Desenvolvida
