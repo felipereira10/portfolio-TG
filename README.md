@@ -375,6 +375,10 @@ Atuei como integrante do DevTeam, com foco na construção do backend e em funci
 
 - Fui responsável pela implementação inicial da lógica de cadastro, login, e dashboard. Garanti clareza e organização nos dados apresentados ao usuário;
 
+- Criei um sistema de aceitação para novos usuários, onde somente administradores têm esta função, mantendo a segurança de acesso;
+
+- Criei a tela de administrador, com acesso exclusivo para determinados usuários;
+
 - Desenvolvi a tela de perfil do colaborador, incluindo a funcionalidade de edição diretamente na dashboard, para facilitar o acesso;
 
 - Realizei mudanças nas telas para padronização e melhor visualização, pensando na experiência do usuário;
