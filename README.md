@@ -45,11 +45,14 @@ tecnologias voltadas ao desenvolvimento front-end. Entre todos meus conhecimento
 destacam:
 * Python
 * Java
+* Node.js
 * React
 * React-native
 * SQL
 * NoSQL
 * Docker
+* AWS
+* Google Cloud
 * HTML
 * JavaScript
 * TypeScript
@@ -205,6 +208,7 @@ Criamos um dashboard web onde o vendedor visualiza suas estatísticas e o admini
 - **Figma** – Prototipação da interface
 - **VS Code** – Desenvolvimento do sistema
 - **JavaScript & React** – Front-end
+- **Node.JS** - Back-end
 - **GitHub** – Controle de versão
 
 
@@ -219,7 +223,7 @@ Atuei no DevTeam como Full Stack utilizando React e Node.JS, focando nas primeir
 
 
 ## 💬 Soft Skills Exercitadas
-Trabalho em equipe com boa comunicação. Estudei novas tecnologias e mantive alinhamento com o cliente ao longo do projeto.
+Demonstrei proatividade técnica ao estudar e aplicar novas tecnologias (React e Node.JS) rapidamente para criar um padrão de interfaces consistente. Mantive uma comunicação constante e transparente com o cliente e a equipe, garantindo o alinhamento das expectativas e a fluidez do roadmap do projeto.
 
 ---
 <br>
