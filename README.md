@@ -335,11 +335,12 @@ Atuei como integrante do DevTeam, com foco na construção do backend e em funci
 ## 💬 Soft Skills
 O projeto exigiu resiliência e disposição para aprender, já que enfrentei uma nova stack tecnológica e precisei adaptar meus conhecimentos para entregar com qualidade. Além disso, mantive uma comunicação clara e ativa com a equipe, garantindo alinhamento e fluidez no desenvolvimento. Trabalhei de forma colaborativa, contribuindo também com sugestões de melhorias para a experiência do usuário.
 
+---
+<br>
+<br>
 <p align="right">
   <a href="#top">🔝 Voltar ao topo</a>
 </p>
-
----
 
 # 📚 Sistema de Gerenciamento de Reembolsos – 6º Semestre (2025-2)
 Projeto desenvolvido com a empresa **Xertica.ai**, orientado pelo professor Walmir Duque, com foco em resolver problemas de controle de reembolsos corporativos.
