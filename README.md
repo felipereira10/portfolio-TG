@@ -347,7 +347,7 @@ O projeto exigiu resiliência e disposição para aprender, já que enfrentei um
 </p>
 
 # 📚 Plataforma de Nutrição Personalizada com IA Generativa – 6º Semestre (2025-2)
-Projeto desenvolvido com a empresa **Xertica.ai**, orientado pelo professor Walmir Duque, com foco em resolver problemas de controle de reembolsos corporativos.
+Projeto desenvolvido com a empresa **Xertica.ai**, orientado pelo professor Walmir Duque, com foco em auxiliar colaboradores para nutrição.
 
 
 ## 💡 Problema
